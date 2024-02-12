@@ -6,4 +6,9 @@ public class Baby {
             System.out.println(" Довольно таки взрослый человек, в возрасte " + feel+ " лет/годков был опечален. ");
         }
     }
+
+    public void processKlal(int frek) {
+        System.out.println(frek);
+    }
+
 }
